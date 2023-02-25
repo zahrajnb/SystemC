@@ -1,0 +1,3 @@
+/home/zahra/ex/costum_sig/CMakeFiles/Signal.dir
+/home/zahra/ex/costum_sig/CMakeFiles/edit_cache.dir
+/home/zahra/ex/costum_sig/CMakeFiles/rebuild_cache.dir

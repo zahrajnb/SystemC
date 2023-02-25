@@ -1,13 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(Exercise5)
+project(Fifo)
 
-add_executable(exercise5
+add_executable(Fifo
     main.cpp
-    kpn.cpp
 )
 
-target_include_directories(exercise5
+target_include_directories(Fifo
     PRIVATE $ENV{SYSTEMC_HOME}/include/
 )
 
@@ -16,6 +15,6 @@ find_library(SYSTEMC_LIBRARY
     PATHS $ENV{SYSTEMC_HOME}/lib-$ENV{SYSTEMC_TARGET_ARCH}/
 )
 
-target_link_libraries(exercise5
+target_link_libraries(Fifo
     PRIVATE ${SYSTEMC_LIBRARY}
 )

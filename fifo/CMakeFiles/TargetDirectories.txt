@@ -1,0 +1,3 @@
+/home/zahra/ex/fifo/CMakeFiles/Fifo.dir
+/home/zahra/ex/fifo/CMakeFiles/edit_cache.dir
+/home/zahra/ex/fifo/CMakeFiles/rebuild_cache.dir
