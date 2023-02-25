@@ -1,0 +1,3 @@
+/home/zahra/ex/SCVP.Exercise4/CMakeFiles/exercise4.dir
+/home/zahra/ex/SCVP.Exercise4/CMakeFiles/edit_cache.dir
+/home/zahra/ex/SCVP.Exercise4/CMakeFiles/rebuild_cache.dir
