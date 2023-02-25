@@ -1,0 +1,3 @@
+/home/zahra/ex/Practice/CMakeFiles/Practice.dir
+/home/zahra/ex/Practice/CMakeFiles/edit_cache.dir
+/home/zahra/ex/Practice/CMakeFiles/rebuild_cache.dir
